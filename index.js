@@ -60,7 +60,7 @@ bot.on('callback_query', async (query) => {
                bot.sendMessage(chatId, '💬 Если возникли трудности с оплатой, нажмите кнопку ниже для получения помощи.', {
                     reply_markup: {
                          inline_keyboard: [
-                              [{ text: 'Помочь с оплатой?', url: 'https://t.me/your_support_chat' }]
+                              [{ text: 'Помочь с оплатой?', url: 'https://t.me/iiiiiiiiiii1111iii' }]
                          ]
                     }
                });
